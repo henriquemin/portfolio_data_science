@@ -27,4 +27,4 @@ Quickly learning, Problem solving, Collaboration, Leadership, Planning, Strategy
 * **Data Science: Pima Indians Analysis and Diabetes Prediction:** http://bit.ly/37ranDQ
 * **Data Science: Brazilian e-commerce Sales Analysis with Plotly:** http://bit.ly/2SK5vEm
 ---
-Photo by Ben Taylor from Pexels
+<sub>Photo by Ben Taylor from Pexels</sub>
