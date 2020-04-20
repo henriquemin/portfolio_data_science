@@ -23,6 +23,7 @@ Quickly learning, Problem solving, Collaboration, Leadership, Planning, Strategy
 
 ## Projects:
 
+* **Data Science: Bakery Market Basket Analysis Apriori:** https://bit.ly/2yxMXB2
 * **Data Science: Titanic Analysis and Survival Prediction:** http://bit.ly/37onfKM
 * **Data Science: Pima Indians Analysis and Diabetes Prediction:** http://bit.ly/37ranDQ
 * **Data Science: Brazilian e-commerce Sales Analysis with Plotly:** http://bit.ly/2SK5vEm
