@@ -14,7 +14,7 @@ I also have experience in Business Intelligence and Data Analysis doing data ext
 Currently, I am looking to combine my experience in areas of Marketing and Sales with Data Science to improve and automate processes and find solutions that generate a high impact and increase sales in retail market.
 
 Professional Skills:
-Excel, SQL, Power BI, Python, Google Analytics.
+Excel, SQL, Power BI, Python, Metabase, Google Data Studio, Google Analytics, Google BigQuery
 
 Quickly learning, Problem solving, Collaboration, Leadership, Planning, Strategy development.
 
